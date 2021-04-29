@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+I'm a Software Architect @ [ThinkBRQ](http://www.thinkbrq.com/) and [BRQ](https://brq.com). I used to write about .NET and Microsoft technologies on https://rmauro.dev
+
+### Contact me
+* https://twitter.com/RicardoDeMauro
+* https://github.com/ricardodemauro
+* https://www.linkedin.com/in/ricardo-mauro/
+
 <!--
-**ricardodemauro/ricardodemauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anuraj/anuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
