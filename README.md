@@ -1,6 +1,6 @@
 ### ⚡ Hi there 👋
 
-I'm a Software Architect @ [ThinkBRQ](http://www.thinkbrq.com/) and [BRQ](https://brq.com). I used to write about .NET and Microsoft technologies on https://rmauro.dev
+I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used to write about .NET and Microsoft technologies on https://rmauro.dev
 
 💬 My Blogs
 
