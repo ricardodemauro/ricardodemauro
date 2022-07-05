@@ -13,7 +13,7 @@ I write blogs occasionally, and publish them everywhere
 - [Oracle Database on Docker for Development](https://rmauro.dev/oracle-database-on-docker-for-development/)
 - [Health Checks on your ASP.NET Core Application](https://rmauro.dev/adding-health-checks-to-net-core-application/)
 
-📫 How to reach me: ...
+📫 How to reach me: 
 
 ```javascript
 const contacts = {
