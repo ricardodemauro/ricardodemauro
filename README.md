@@ -2,6 +2,8 @@
 
 I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used to write about .NET and Microsoft technologies on https://rmauro.dev
 
+![](https://komarev.com/ghpvc/?username=ricardodemauro&color=green)
+
 💬 My Blogs
 
 I write blogs occasionally, and publish them everywhere 
