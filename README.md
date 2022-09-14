@@ -4,10 +4,11 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 ![](https://komarev.com/ghpvc/?username=ricardodemauro&color=green)
 
-💬 My Blogs
+💬 My Latest Blogs
 
 I write blogs occasionally, and publish them everywhere 
 
+- [Hardening your Linux Server exposed on the internet](https://rmauro.dev/8-actions-for-hardening-your-linux-server-for-internet/)
 - [Create a Minimal API with .NET 6](https://rmauro.dev/create-a-minimal-api-with-dotnet-6/)
 - [Set up Serilog in .NET 6 as logging provider](https://rmauro.dev/setup-serilog-in-net6-as-logging-provider/)
 - [Optimizing Query Performance on C# ODP.NET - Oracle Managed Data Access](https://rmauro.dev/optmizing-data-access-with-oracle-managed-ado-net/)
