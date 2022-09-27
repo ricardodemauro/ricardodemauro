@@ -8,6 +8,7 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 I write blogs occasionally, and publish them everywhere 
 
+- [Calculate Time Ago with .NET C#](https://rmauro.dev/calculate-time-ago-with-csharp/)
 - [Hardening your Linux Server exposed on the internet](https://rmauro.dev/8-actions-for-hardening-your-linux-server-for-internet/)
 - [Create a Minimal API with .NET 6](https://rmauro.dev/create-a-minimal-api-with-dotnet-6/)
 - [Set up Serilog in .NET 6 as logging provider](https://rmauro.dev/setup-serilog-in-net6-as-logging-provider/)
