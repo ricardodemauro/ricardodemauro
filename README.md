@@ -23,7 +23,8 @@ I write blogs occasionally, and publish them everywhere
 const contacts = {
   "twitter": "https://twitter.com/RicardoDeMauro",
   "github": "https://github.com/ricardodemauro",
-  "linkedIn": "https://www.linkedin.com/in/ricardo-mauro/"
+  "linkedIn": "https://www.linkedin.com/in/ricardo-mauro/",
+  "blog": "https://rmauro.dev"
 };
 ```
 
