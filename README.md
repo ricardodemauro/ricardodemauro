@@ -8,8 +8,8 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 I write blogs occasionally, and publish them everywhere 
 
-- [Oracle JSON_TABLE: Transforming JSON into Relational Format](https://rmauro.dev/oracle-json-table-transforming-json-into-relational-format/)
-- [Oracle MERGE Statement SQL](https://rmauro.dev/oracle-merge-to-update-sql/)
+- [Oracle JSON_TABLE: Transforming JSON into Relational Format](https://rmauro.dev/oracle-json-table-transforming-json-into-relational-format/) 2023-05
+- [Oracle MERGE Statement SQL](https://rmauro.dev/oracle-merge-to-update-sql/) 2023-05
 - [JWT Authentication with C# .NET](https://rmauro.dev/jwt-authentication-with-csharp-dotnet/) 2023-04
 - [Generating Images from Text with C# and Open AI DALL-E](https://rmauro.dev/generating-images-from-text-with-csharp-and-open-ai-dall-e/)
 - [Getting Started with Chat GPT and C#](https://rmauro.dev/getting-started-with-chat-gpt-integration-with-csharp-console-application/)
