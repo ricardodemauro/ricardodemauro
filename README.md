@@ -8,6 +8,7 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 I write blogs occasionally, and publish them everywhere 
 
+- [C# Get JWT Token from Request](https://rmauro.dev/csharp-get-jwt-token-request/) 2023-05
 - [Oracle JSON_TABLE: Transforming JSON into Relational Format](https://rmauro.dev/oracle-json-table-transforming-json-into-relational-format/) 2023-05
 - [Oracle MERGE Statement SQL](https://rmauro.dev/oracle-merge-to-update-sql/) 2023-05
 - [JWT Authentication with C# .NET](https://rmauro.dev/jwt-authentication-with-csharp-dotnet/) 2023-04
