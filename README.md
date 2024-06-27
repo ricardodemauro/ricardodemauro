@@ -9,7 +9,7 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 I write blogs occasionally, and publish them everywhere 
 
 - [HTTP Status Codes Explained: From 200 OK to 429 Too Many Requests](https://rmauro.dev/http-status-codes-explained-from-200-ok-to-429-too-many-requests/)
-- [Gather Oracle Stats for Schema, Table and Indexes]([https://rmauro.dev/oracle-odp-net-with-truly-async-methods-in-csharp/](https://rmauro.dev/gather-oracle-stats-for-schema-tables-indexes/)) - 2024-06
+- [Gather Oracle Stats for Schema, Table and Indexes](https://rmauro.dev/gather-oracle-stats-for-schema-tables-indexes/) - 2024-06
 - [Oracle ODP.NET with truly Async Methods in C#](https://rmauro.dev/oracle-odp-net-with-truly-async-methods-in-csharp/) - 2023-08
 - [Oracle PIVOT Command - Turn Rows into Columns](https://rmauro.dev/oracle-pivot-command-turn-rows-into-columns/) 2023-08
 - [C# Get JWT Token from Request](https://rmauro.dev/csharp-get-jwt-token-request/) 2023-05
