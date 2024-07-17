@@ -8,6 +8,7 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 I write blogs occasionally, and publish them everywhere 
 
+- [Reading appsettings.json from a Console Application](https://rmauro.dev/reading-appsettings-json-from-a-console-application/) - 2024-07
 - [HTTP Status Codes Explained: From 200 OK to 429 Too Many Requests](https://rmauro.dev/http-status-codes-explained-from-200-ok-to-429-too-many-requests/)
 - [Gather Oracle Stats for Schema, Table and Indexes](https://rmauro.dev/gather-oracle-stats-for-schema-tables-indexes/) - 2024-06
 - [Oracle ODP.NET with truly Async Methods in C#](https://rmauro.dev/oracle-odp-net-with-truly-async-methods-in-csharp/) - 2023-08
