@@ -8,7 +8,7 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 I write blogs occasionally, and publish them everywhere 
 
-- [Load .Env file into IConfiguration Provider]([https://rmauro.dev/read-env-file-in-csharp/](https://rmauro.dev/load-dotenv-file-into-configuration-provider/)
+- [Load .Env file into IConfiguration Provider](https://rmauro.dev/load-dotenv-file-into-configuration-provider/)
 - [Reading .env Files in C#](https://rmauro.dev/read-env-file-in-csharp/)
 - [Reading appsettings.json from a Console Application](https://rmauro.dev/reading-appsettings-json-from-a-console-application/) - 2024-07
 - [HTTP Status Codes Explained: From 200 OK to 429 Too Many Requests](https://rmauro.dev/http-status-codes-explained-from-200-ok-to-429-too-many-requests/)
