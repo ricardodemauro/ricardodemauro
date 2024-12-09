@@ -18,7 +18,7 @@ I write blogs occasionally, and publish them everywhere
 - [Create and Configure a GitHub Codespace](https://rmauro.dev/create-and-configure-a-github-codespace/)
 - [Create a Configuration Provider for Microsoft.Extensions.Configuration](https://rmauro.dev/create-configuration-provider-microsoft-extensions-configuration/)
 - [Logging Performance Improvements with Source Generators in C# .NET](https://rmauro.dev/logging-improvements-with-source-generators-in-net/)
-- 
+  
 - [Load .Env file into IConfiguration Provider](https://rmauro.dev/load-dotenv-file-into-configuration-provider/)
 - [Reading .env Files in C#](https://rmauro.dev/read-env-file-in-csharp/)
 - [Reading appsettings.json from a Console Application](https://rmauro.dev/reading-appsettings-json-from-a-console-application/) - 2024-07
