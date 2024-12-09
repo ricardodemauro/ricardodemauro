@@ -8,6 +8,17 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 I write blogs occasionally, and publish them everywhere 
 
+- [Socket Client over PowerShell](https://rmauro.dev/socket-client-over-powershell/)
+- [Building Your Own wc Tool in C# Code Challenge](https://rmauro.dev/building-your-own-wc-tool-in-c-code-challenge/)
+- [Implicit Using in C#](https://rmauro.dev/implicit-using-in-csharp/)
+- [Getting Started with Tmux on Terminal](https://rmauro.dev/getting-started-with-tmux-on-terminal/)
+- [Publish C# Project to Nuget.org](https://rmauro.dev/publish-csharp-project-to-nuget-org/)
+- [How to Record Video and Audio with FFmpeg: A Minimalist Approach](https://rmauro.dev/how-to-record-video-and-audio-with-ffmpeg-a-minimalist-approach/)
+- [C# Enum Bitwise Operations](https://rmauro.dev/csharp-enum-bitwise-operations/)
+- [Create and Configure a GitHub Codespace](https://rmauro.dev/create-and-configure-a-github-codespace/)
+- [Create a Configuration Provider for Microsoft.Extensions.Configuration](https://rmauro.dev/create-configuration-provider-microsoft-extensions-configuration/)
+- [Logging Performance Improvements with Source Generators in C# .NET](https://rmauro.dev/logging-improvements-with-source-generators-in-net/)
+- 
 - [Load .Env file into IConfiguration Provider](https://rmauro.dev/load-dotenv-file-into-configuration-provider/)
 - [Reading .env Files in C#](https://rmauro.dev/read-env-file-in-csharp/)
 - [Reading appsettings.json from a Console Application](https://rmauro.dev/reading-appsettings-json-from-a-console-application/) - 2024-07
@@ -34,6 +45,7 @@ I write blogs occasionally, and publish them everywhere
 
 ```javascript
 const contacts = {
+  "discord": "https://discord.gg/G38mg2v",
   "twitter": "https://twitter.com/RicardoDeMauro",
   "github": "https://github.com/ricardodemauro",
   "linkedIn": "https://www.linkedin.com/in/ricardo-mauro/",
