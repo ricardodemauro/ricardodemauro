@@ -4,6 +4,18 @@ I'm a Software Architect aka `Code Developer` @ [BRQ](https://brq.com). I used t
 
 ![](https://komarev.com/ghpvc/?username=ricardodemauro&color=green)
 
+📫 How to reach me: 
+
+```javascript
+const contacts = {
+  "discord": "https://discord.gg/G38mg2v",
+  "twitter": "https://twitter.com/RicardoDeMauro",
+  "github": "https://github.com/ricardodemauro",
+  "linkedIn": "https://www.linkedin.com/in/ricardo-mauro/",
+  "blog": "https://rmauro.dev"
+};
+```
+
 💬 My Latest Blogs
 
 I write blogs occasionally, and publish them everywhere 
@@ -41,17 +53,7 @@ I write blogs occasionally, and publish them everywhere
 - [Oracle Database on Docker for Development](https://rmauro.dev/oracle-database-on-docker-for-development/)
 - [Health Checks on your ASP.NET Core Application](https://rmauro.dev/adding-health-checks-to-net-core-application/)
 
-📫 How to reach me: 
 
-```javascript
-const contacts = {
-  "discord": "https://discord.gg/G38mg2v",
-  "twitter": "https://twitter.com/RicardoDeMauro",
-  "github": "https://github.com/ricardodemauro",
-  "linkedIn": "https://www.linkedin.com/in/ricardo-mauro/",
-  "blog": "https://rmauro.dev"
-};
-```
 
 <!--
 **anuraj/anuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
